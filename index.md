@@ -1,6 +1,6 @@
 # Welcome to My GitHub User Page
 
-Hello there! I'm Nirvek Padney, a passionate programmer and a curious individual always looking to learn new things. This page is a glimpse into who I am, both professionally and personally.
+Hello there! I'm Nirvek Pandey, a passionate programmer and a curious individual always looking to learn new things. This page is a glimpse into who I am, both professionally and personally.
 
 ## About Me
 
