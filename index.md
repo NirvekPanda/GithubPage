@@ -16,9 +16,7 @@ I started my coding journey with simple scripts to automate daily tasks
 
 1. Built my first computer in the ninth grade
 2. Wrote scripts to automate tasks during the pandemic
-3. List
-
-> I love to drink coffee and tea
+3. Taught middle and elementary school students Java basics.
 
 #### Projects
 
@@ -33,10 +31,10 @@ I started my coding journey with simple scripts to automate daily tasks
 - Java
 - C++
 - R
-- React
 
-**I'm currently learning:**
+**Current Goals:**
 
+- [x] Practing Typing Speed
 - [ ] Software Engineering
 - [ ] Machine Learning
 - [ ] Leetcode
