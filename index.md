@@ -34,7 +34,7 @@ I started my coding journey with simple scripts to automate daily tasks
 
 **Current Goals:**
 
-- [x] Practing Typing Speed
+- [x] Practicing Typing Speed
 - [ ] Software Engineering
 - [ ] Machine Learning
 - [ ] Leetcode
