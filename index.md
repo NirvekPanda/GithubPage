@@ -1,6 +1,15 @@
-# Welcome to My GitHub User Page
+# Welcome!
 
 Hello there! I'm Nirvek Pandey, a passionate programmer and a curious individual always looking to learn new things. This page is a glimpse into who I am, both professionally and personally.
+
+- [Welcome!](#welcome)
+  - [About Me](#about-me)
+    - [Professional Journey](#professional-journey)
+      - [Projects](#projects)
+  - [Skills](#skills)
+  - [Favorite Line of Code](#favorite-line-of-code)
+  - [Contact](#contact)
+    - [Navigation](#navigation)
 
 ## About Me
 
@@ -42,7 +51,7 @@ I started my coding journey with simple scripts to automate daily tasks
 - [x] Headings
 - [x] Styling text
 - [ ] Quoting text
-- [ ] Quoting code
+- [x] Quoting code
 - [x] External Links
 - [ ] Section links
 - [x] Relative links (Link to another .md file or an image in your repo. )
