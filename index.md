@@ -13,7 +13,9 @@ Hello there! I'm Nirvek Pandey, a passionate programmer and a curious individual
 
 ## About Me
 
-![Profile Image](/screenshots/profile.jpg)
+<img src="/screenshots/profile.jpg" width="120" height="160">
+
+![Profile Image](src)
 
 I've been fascinated by technology from a young age, leading me to dive deep into the world of computers. Here's a bit more about my journey and what I love doing:
 
