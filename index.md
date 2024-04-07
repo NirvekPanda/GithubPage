@@ -38,6 +38,21 @@ I started my coding journey with simple scripts to automate daily tasks
 - [ ] Software Engineering
 - [ ] Machine Learning
 - [ ] Leetcode
+ 
+- [x] Headings
+- [x] Styling text
+- [ ] Quoting text
+- [ ] Quoting code
+- [x] External Links
+- [ ] Section links
+- [x] Relative links (Link to another .md file or an image in your repo. )
+- [x] Ordered and Unordered Lists
+- [x] Task lists
+
+## Favorite Line of Code
+```
+    print ("Hello World!")
+```
 
 ## Contact
 
