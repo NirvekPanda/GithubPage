@@ -48,15 +48,7 @@ I started my coding journey with simple scripts to automate daily tasks
 - [ ] Machine Learning
 - [ ] Leetcode
  
-- [x] Headings
-- [x] Styling text
-- [ ] Quoting text
-- [x] Quoting code
-- [x] External Links
-- [ ] Section links
-- [x] Relative links (Link to another .md file or an image in your repo. )
-- [x] Ordered and Unordered Lists
-- [x] Task lists
+
 
 ## Favorite Line of Code
 ```

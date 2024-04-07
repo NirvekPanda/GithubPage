@@ -1,6 +1,6 @@
-#Hello, this is my About Me page
+# Hello, this is my About Me page
 
-##Likes
+## Likes
 
 ### Coffee
 - Iced or Hot Coffee
@@ -13,12 +13,34 @@
 3. Truffle Pasta
 
 
-##Dislikes
-
+## Dislikes
 - Homework
 - Annoying Children
 
-### Navigation
+# Project Information:
 
+## Project Goals
+- [x] Headings
+- [x] Styling text
+- [ ] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links (Link to another .md file or an image in your repo. )
+- [x] Ordered and Unordered Lists
+- [x] Task lists
+
+## Screenshots
+
+> Command Line Interaction
+> ![Command Line Interaction](/screenshots/command_line.png)
+
+> Staged Commit in VSC
+> ![Staged Commit Screenshots](/screenshots/staged_commit.png)
+
+
+
+
+### Navigation
 - [Home](index.md) <!-- Relative link to this file itself -->
 - [About Me](about.md) <!-- Link to another .md file in your repo -->
