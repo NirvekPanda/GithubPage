@@ -6,7 +6,7 @@ Hello there! I'm Nirvek Padney, a passionate programmer and a curious individual
 
 ![Profile Image](/screenshots/profile.jpg)
 
-I've been fascinated by technology from a young age, leading me to dive deep into the world of programming. Here's a bit more about my journey and what I love doing:
+I've been fascinated by technology from a young age, leading me to dive deep into the world of computers. Here's a bit more about my journey and what I love doing:
 
 - **Programming Languages:** I enjoy working with Python, Java, and C++.
 - **Hobbies:** Apart from coding, I love cooking, photography, and exploring new cuisines.
@@ -14,8 +14,8 @@ I've been fascinated by technology from a young age, leading me to dive deep int
 ### Professional Journey
 I started my coding journey with simple scripts to automate daily tasks
 
-1. List
-2. List
+1. Built my first computer in the ninth grade
+2. Wrote scripts to automate tasks during the pandemic
 3. List
 
 > I love to drink coffee and tea
@@ -37,8 +37,8 @@ I started my coding journey with simple scripts to automate daily tasks
 
 **I'm currently learning:**
 
-- [ ] Machine Learning
 - [ ] Software Engineering
+- [ ] Machine Learning
 - [ ] Leetcode
 
 ## Contact
