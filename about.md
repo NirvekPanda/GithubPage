@@ -36,7 +36,7 @@
 ![Command Line Interaction](/screenshots/command_line.png)
 
 > Staged Commit in VSC
-![Staged Commit Screenshots](/screenshots/staged_commit.png)
+![Staged Commit Screenshots](/screenshots/staged_commit.jpg)
 
 
 
