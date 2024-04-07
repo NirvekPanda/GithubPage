@@ -4,6 +4,12 @@ Hello there! I'm Nirvek Pandey, a passionate programmer and a curious individual
 
 - [Welcome!](#welcome)
   - [About Me](#about-me)
+    - [Professional Journey](#professional-journey)
+      - [Projects](#projects)
+  - [Skills](#skills)
+  - [Favorite Line of Code](#favorite-line-of-code)
+  - [Contact](#contact)
+    - [Navigation](#navigation)
 
 ## About Me
 

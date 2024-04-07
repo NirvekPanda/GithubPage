@@ -17,3 +17,8 @@
 
 - Homework
 - Annoying Children
+
+### Navigation
+
+- [Home](index.md) <!-- Relative link to this file itself -->
+- [About Me](about.md) <!-- Link to another .md file in your repo -->
