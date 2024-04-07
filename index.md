@@ -61,5 +61,6 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/NirvekPan
     - [Favorite Line of Code](#favorite-line-of-code)
     - [Contact](#contact)
       - [Navigation](#navigation)
-[More About Me](about.md) <!-- Link to another .md file in your repo -->
+
+## [More About Me](about.md) <!-- Link to another .md file in your repo -->
 ---
