@@ -22,7 +22,7 @@
 ## Project Goals
 - [x] Headings
 - [x] Styling text
-- [ ] Quoting text
+- [x] Quoting text
 - [x] Quoting code
 - [x] External Links
 - [x] Section links
