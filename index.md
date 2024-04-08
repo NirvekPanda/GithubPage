@@ -15,8 +15,9 @@ I've been fascinated by technology from a young age, leading me to dive deep int
 I started my coding journey with simple scripts to automate daily tasks
 
 1. Built my first computer in the ninth grade
-2. Wrote scripts to automate tasks during the pandemic
+2. Wrote scripts to automate tasks during the pandemic.
 3. Taught middle and elementary school students Java basics.
+4. Built a custom keyboard in the eleventh grade.
 
 #### Projects
 
@@ -38,7 +39,6 @@ I started my coding journey with simple scripts to automate daily tasks
 - [ ] Software Engineering
 - [ ] Machine Learning
 - [ ] Leetcode
- 
 
 
 ## Favorite Line of Code
